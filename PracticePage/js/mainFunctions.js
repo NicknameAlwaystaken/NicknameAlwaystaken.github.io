@@ -24,11 +24,12 @@ function practicePage() {
 }
 
 function pictureChange() {
+    counter++;
     if(counter % 2) {
-    pic = "img/PeepoSpy.png";
+        pic = "img/PeepoSpy.png";
     }
     else {
-    pic = "img/CatMlem.png";
+        pic = "img/CatMlem.png";
     }
     myImg.src = pic;
 
@@ -39,5 +40,4 @@ function pictureChange() {
     myImg.style.height = newHeight + "px";
 
     document.getElementById('test').innerHTML = counter;
-    counter++;
 }
