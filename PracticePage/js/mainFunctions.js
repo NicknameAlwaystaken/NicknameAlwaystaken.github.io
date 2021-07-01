@@ -45,6 +45,6 @@ function pictureChange() {
     myImg.style.width = newWidth + "px";
     myImg.style.height = newHeight + "px";
 
-    document.getElementById('test').innerHTML = counter;
     counter++;
+    document.getElementById('test').innerHTML = counter;
 }
