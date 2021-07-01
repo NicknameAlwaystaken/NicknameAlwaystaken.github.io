@@ -1,6 +1,17 @@
 
-
-#navbar {
+body {
+    margin: 0;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  #navbar {
     overflow: hidden;
     background-color: #333;
   }
@@ -24,13 +35,17 @@
     background-color: #04AA6D;
     color: white;
   }
-
-.sticky {
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
     position: fixed;
     top: 0;
     width: 100%;
   }
-
-.sticky + .content {
-  padding-top: 60px;
-}
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
