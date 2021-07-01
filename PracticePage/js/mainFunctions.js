@@ -1,5 +1,6 @@
 
 var counter = 0;
+var pic = "img/PeepoSpy.png";
 
 myImg = document.getElementById('myImage');
 
@@ -22,12 +23,12 @@ function practicePage() {
     window.location.href = "https://nicknamealwaystaken.github.io/PracticePage";
 }
 
-function picture() {
+function pictureChange() {
     if(counter % 2) {
-    var pic = "img/PeepoSpy.png";
+    pic = "img/PeepoSpy.png";
     }
     else {
-    var pic = "img/CatMlem.png";
+    pic = "img/CatMlem.png";
     }
     myImg.src = pic;
 
