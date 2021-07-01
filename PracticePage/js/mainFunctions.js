@@ -15,6 +15,12 @@ function stickyNavBar() {
     navbar.classList.remove("sticky");
   }
 }
+function homePage() {
+    window.location.href = "https://nicknamealwaystaken.github.io";
+}
+function practicePage() {
+    window.location.href = "https://nicknamealwaystaken.github.io/PracticePage";
+}
 
 function picture() {
     if(counter % 2) {
