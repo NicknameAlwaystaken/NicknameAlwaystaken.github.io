@@ -31,7 +31,6 @@ function practicePage() {
 }
 
 function pictureChange() {
-    counter++;
     if(counter % 2) {
         pic = "img/PeepoSpy.png";
     }
@@ -47,4 +46,5 @@ function pictureChange() {
     myImg.style.height = newHeight + "px";
 
     document.getElementById('test').innerHTML = counter;
+    counter++;
 }
