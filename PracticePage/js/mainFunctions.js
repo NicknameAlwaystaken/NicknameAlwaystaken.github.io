@@ -1,13 +1,20 @@
 
-var counter = 0;
-var pic = "img/PeepoSpy.png";
-
-myImg = document.getElementById('myImage');
+var counter;
+var pic;
+var myImg;
 
 window.onscroll = function() {stickyNavBar()};
 
-var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
+var navbar;
+var sticky;
+
+function setup() {
+    navbar = document.getElementById("navbar");
+    sticky = navbar.offsetTop;
+    myImg = document.getElementById('myImage');
+    counter = 0;
+    pic = "img/PeepoSpy.png";
+}
 
 function stickyNavBar() {
   if (window.pageYOffset >= sticky) {
