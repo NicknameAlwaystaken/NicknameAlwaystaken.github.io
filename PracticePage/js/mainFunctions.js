@@ -2,6 +2,7 @@
 var counter;
 var pic;
 var myImg;
+var myImgDiv;
 
 window.onscroll = function() {stickyNavBar()};
 
@@ -11,7 +12,7 @@ var sticky;
 function setup() {
     navbar = document.getElementById("navbar");
     sticky = navbar.offsetTop;
-    myImg = document.getElementById('myImage');
+    myImgDiv = document.getElementById('myImageDiv');
     counter = 0;
     pic = "img/PeepoSpy.png";
 }
@@ -39,11 +40,11 @@ function pictureChange() {
     }
     myImg.src = pic;
 
-    var newWidth = myImg.clientWidth + 5;
-    var newHeight = myImg.clientHeight + 5;
+    var newWidth = myImgDiv.clientWidth + 5;
+    var newHeight = myImgDiv.clientHeight + 5;
 
-    myImg.style.width = newWidth + "px";
-    myImg.style.height = newHeight + "px";
+    myImgDiv.style.width = newWidth + "px";
+    myImgDiv.style.height = newHeight + "px";
 
     counter++;
     document.getElementById('test').innerHTML = counter;
