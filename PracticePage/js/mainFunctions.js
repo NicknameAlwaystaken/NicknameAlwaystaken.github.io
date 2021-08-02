@@ -12,7 +12,8 @@ var sticky;
 function setup() {
     navbar = document.getElementById("navbar");
     sticky = navbar.offsetTop;
-    myImgDiv = document.getElementById('myImageDiv');
+    myImg = document.getElementById('myImage');
+    myImgDiv = document.getElementById('myImgDiv');
     counter = 0;
     pic = "img/PeepoSpy.png";
 }
@@ -38,7 +39,7 @@ function pictureChange() {
     else {
         pic = "img/CatMlem.png";
     }
-    myImg.src = pic;
+    //myImg.src = pic;
 
     var newWidth = myImgDiv.clientWidth + 5;
     var newHeight = myImgDiv.clientHeight + 5;
