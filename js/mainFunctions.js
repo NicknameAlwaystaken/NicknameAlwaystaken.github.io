@@ -5,3 +5,6 @@ function homePage() {
 function practicePage() {
   window.location.href = "https://nicknamealwaystaken.github.io/PracticePage";
 }
+function showcasePage() {
+  window.location.href = "https://nicknamealwaystaken.github.io/Showcase";
+}

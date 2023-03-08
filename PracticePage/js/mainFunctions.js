@@ -24,12 +24,14 @@ function stickyNavBar() {
   }
 }
 function homePage() {
-    window.location.href = "https://nicknamealwaystaken.github.io";
+  window.location.href = "https://nicknamealwaystaken.github.io";
 }
 function practicePage() {
-    window.location.href = "https://nicknamealwaystaken.github.io/PracticePage";
+  window.location.href = "https://nicknamealwaystaken.github.io/PracticePage";
 }
-
+function showcasePage() {
+  window.location.href = "https://nicknamealwaystaken.github.io/Showcase";
+}
 function pictureChange() {
     if(counter % 2) {
         pic = "img/PeepoSpy.png";
