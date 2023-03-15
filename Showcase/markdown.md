@@ -58,10 +58,14 @@
 <details>
 <summary><h2>Social aspect</h2></summary>
 
-### Teaching as peer and senior
+### Teaching as a peer and as a senior
 
--   #### Diginikkarit
+-   #### Diginikkarit (Programming)
 
     - In diginikkarit on-the-job experience I have helped my peers with the [MOOC.fi Python Course (link)](markdown.md#moocfi-python-programming-2023) by helping them to an extend depending on their difficulties. If they were at a wall, I guided them more. Usually by writing, drawing and writing pseudo code for them. Big part of what I looked at is thinking if they are handling problems in small enough pieces.
+    
+-   #### Rocket league *and other games* (Gaming)
+
+    - In rocket league, I have been acting as a type of guru in a community where I had earned respect as a very talented player and teacher/coach. I have in total over 5000 hours in the game and I have played with top players, including games with pro players. I had learnt to understand and see the game in a more broad manner, in a more meta manner. In example of instead of thinking as one action and figuring how to do best in that, I instead looked at am I in good position in the first place. If your actions feel hard to do and you are proficient player/actor, usually it just means that you are having difficulties with the actions you take because of the situation you find yourself in. To improve in those situations is to find a way to have better position to make action be less effort.
 </details>
 </details>
