@@ -1,7 +1,7 @@
 <details>
 <summary><h1>Work and experiences</h1></summary>
 
-[**Projects** *(README.md)*]
+[**Projects** *(markdown.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
 
