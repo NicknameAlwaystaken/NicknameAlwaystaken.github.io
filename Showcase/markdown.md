@@ -58,6 +58,10 @@
 <details>
 <summary><h2>Social aspect</h2></summary>
 
-### Teaching peers
+### Teaching as peer and senior
+
+-   #### Diginikkarit
+
+    - In diginikkarit on-the-job experience I have helped my peers with the [MOOC.fi Python Course (link)](markdown.md#moocfi-python-programming-2023) by helping them to an extend depending on their difficulties. If they were at a wall, I guided them more. Usually by writing, drawing and writing pseudo code for them. Big part of what I looked at is thinking if they are handling problems in small enough pieces.
 </details>
 </details>
