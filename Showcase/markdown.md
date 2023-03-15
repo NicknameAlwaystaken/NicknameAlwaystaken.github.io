@@ -6,7 +6,8 @@
 <details>
 <summary><h1>Diginikkarit BusinessOulu</h1></summary>
 
-<h2>Programming</h2>
+<details>
+<summary><h2>Programming</h2></summary>
 
 ### Courses
 
@@ -22,8 +23,9 @@
 
     - I signed up for the course and started doing it slowly. Only done first part so far.
 
-
-<h2>FabLab</h2>
+</details>
+<details>
+<summary><h2>FabLab</h2></summary>
 
 ### 3D-Printers
 
@@ -49,4 +51,5 @@
     - <details><summary>Default starbox</summary><img src="starbox.png" alt="Starbox"></details>
 
     
+</details>
 </details>
