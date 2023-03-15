@@ -1,5 +1,4 @@
-<details>
-<summary><h1>Work and experiences</h1></summary>
+<details><summary><h1>Work and experiences</h1></summary>
 
 [**Projects** *(markdown.md)*](markdown.md#diginikkarit-businessoulu)
 
