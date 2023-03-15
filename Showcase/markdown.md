@@ -5,7 +5,7 @@
 [**Projects** *(markdown.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
-<details><summary><h1>Diginikkarit BusinessOulu</h1></summary>
+<details>Diginikkarit BusinessOulu<summary><h1>Diginikkarit BusinessOulu</h1></summary>
 
 <details><summary><h2>Programming</h2></summary>
 
