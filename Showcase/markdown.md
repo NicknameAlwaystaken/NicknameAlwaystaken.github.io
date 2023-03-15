@@ -4,8 +4,8 @@
 [**Projects** *(markdown.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
-
-# Diginikkarit BusinessOulu
+<details>
+<summary><h1>Diginikkarit BusinessOulu</h1></summary>
 
 <h2>Programming</h2>
 
@@ -48,3 +48,6 @@
 -   #### [Boxes.py (plywood) (link)](https://festi.info/boxes.py/)
     - <details><summary>Default cardbox</summary><img src="cardbox.png" alt="Cardbox"></details>
     - <details><summary>Default starbox</summary><img src="starbox.png" alt="Starbox"></details>
+
+    
+</details>
