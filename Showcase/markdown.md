@@ -54,6 +54,10 @@
 </details>
 </details>
 <details>
-<summary><h1>Summary</h1></summary>
+<summary><h1>Summary of experiences</h1></summary>
+<details>
+<summary><h2>Social aspect</h2></summary>
 
+### Teaching peers
+</details>
 </details>
