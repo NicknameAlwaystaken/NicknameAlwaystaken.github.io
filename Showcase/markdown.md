@@ -22,7 +22,8 @@
 </details>
 </details>
 <details><summary><h1>Bounce Climber</h1></summary>
-    [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
+
+-   [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
 
 </details>
 <details><summary><h1>Diginikkarit BusinessOulu</h1></summary>
