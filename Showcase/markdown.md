@@ -5,11 +5,9 @@
 [**Projects** *(markdown.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
-<details>
-<summary><h1>Diginikkarit BusinessOulu</h1></summary>
+<details><summary><h1>Diginikkarit BusinessOulu</h1></summary>
 
-<details>
-<summary><h2>Programming</h2></summary>
+<details><summary><h2>Programming</h2></summary>
 
 ### Courses
 
@@ -41,7 +39,7 @@
     
 ### Laser Cutter
     Using Inkscape to make .svg files for machines
-    
+
 -   #### Keychain 2 versions (plywood)
     - <details><summary>Keychains self made model</summary><img src="keychain.png" alt="Two Keychains"></details>
     
