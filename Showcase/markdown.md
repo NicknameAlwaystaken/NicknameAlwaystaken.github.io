@@ -1,3 +1,5 @@
+**Download printable version**
+
 <details><summary><h1>Work and experiences</h1></summary>
 
 [**Projects** *(markdown.md)*](markdown.md#diginikkarit-businessoulu)
@@ -13,13 +15,13 @@
 
 -   #### [MOOC.fi Python Programming 2023](https://programming-23.mooc.fi/)
     - In this course I have completed **Introduction to Programming** part 1 to part 7 with 100% points. I started working on it 20.2.2023 and finished exercises by 14.3.2023
-    I had immediately started next course **Advanced Course in Programming** the next day 14.3.2023.
+    - I had immediately started next course **Advanced Course in Programming** the next day 14.3.2023.
 
--   #### [SQLTrainer](https://sqltrainer.withmooc.fi/#1)
+-   #### [SQLTrainer MOOC.fi (link)](https://sqltrainer.withmooc.fi/#1)
 
     - In this trainer I have completed tasks from 1 to 71. I didn't pursue it further until I might need more practice.
     
--   #### [Elements of Ai](https://www.elementsofai.com/fi)
+-   #### [Elements of Ai (link)](https://www.elementsofai.com/fi)
 
     - I signed up for the course and started doing it slowly. Only done first part so far.
 
@@ -31,10 +33,6 @@
 
 -   #### [Kanai's cube (link)](https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/)
     - <details><summary>Kanai's cube (model found online)</summary><img src="kanaiscube.png" alt="Kanai's cube"></details>
-
--   #### [SQLTrainer MOOC.fi (link)](https://sqltrainer.withmooc.fi/#1)
-
-    - In this trainer I have completed tasks from 1 to 71. I didn't pursue it further until I might need more practice.
     
 ### Vinyl Cutter
 
