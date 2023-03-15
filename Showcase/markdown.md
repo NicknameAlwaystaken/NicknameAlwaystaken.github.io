@@ -32,7 +32,7 @@
 -   #### [Kanai's cube (link)](https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/)
     - <details><summary>Kanai's cube (model found online)</summary><img src="kanaiscube.png" alt="Kanai's cube"></details>
 
--   #### [SQLTrainer](https://sqltrainer.withmooc.fi/#1)
+-   #### [SQLTrainer MOOC.fi (link)](https://sqltrainer.withmooc.fi/#1)
 
     - In this trainer I have completed tasks from 1 to 71. I didn't pursue it further until I might need more practice.
     
@@ -52,4 +52,8 @@
 
     
 </details>
+</details>
+<details>
+<summary><h1>Summary</h1></summary>
+
 </details>
