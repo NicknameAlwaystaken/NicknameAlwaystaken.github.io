@@ -13,9 +13,9 @@
 
 ### Courses
 
--   #### [MOOC.fi Python Programming 2023](https://programming-23.mooc.fi/)
-    - In this course I have completed **Introduction to Programming** part 1 to part 7 with 100% points. I started working on it 20.2.2023 and finished exercises by 14.3.2023
-    - I had immediately started next course **Advanced Course in Programming** the next day 14.3.2023.
+-   #### [MOOC.fi Python Programming 2023 (link)](https://programming-23.mooc.fi/)
+    - In this course I have completed **Introduction to Programming** with 100% points. I started working on it 20.2.2023 and finished exercises by 14.3.2023
+    - I had immediately started next course **Advanced Course in Programming** on the next day 14.3.2023.
 
 -   #### [SQLTrainer MOOC.fi (link)](https://sqltrainer.withmooc.fi/#1)
 
@@ -40,7 +40,8 @@
     - <details><summary>a Fabric bag with reflective text</summary><img src="fabricbag.png" alt="Fabric bag"></details>
     
 ### Laser Cutter
-
+    Using Inkscape to make .svg files for machines
+    
 -   #### Keychain 2 versions (plywood)
     - <details><summary>Keychains self made model</summary><img src="keychain.png" alt="Two Keychains"></details>
     
