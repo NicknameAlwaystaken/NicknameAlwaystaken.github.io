@@ -29,6 +29,7 @@ div {
     font-size: 18px;
 }
 hr {
+    border-width: 0px;
     background-color: rgb(172, 172, 172);
 }
 /* Dashed border */
