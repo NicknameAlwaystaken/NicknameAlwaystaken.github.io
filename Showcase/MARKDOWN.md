@@ -12,7 +12,7 @@
 <p id="h3" class="intend3">Teaching as a peer and as a senior</p>
 
 <p id="h4" class="intend4">Diginikkarit (Programming)</p>
-<p class="intend5">In diginikkarit on-the-job experience I have helped my peers with the <a href="#moocfi-python-programming-2023">MOOC.fi Python Course (link)</a> by helping them to an extend depending on their difficulties. If they were at a wall, I guided them more. Usually by writing, drawing and writing pseudo code for them. Big part of what I looked at is thinking if they are handling problems in small enough pieces.</p>
+<p class="intend5">In Diginikkarit on-the-job experience I have helped my peers with the <a href="#moocfi-python-programming-2023">MOOC.fi Python Course (link)</a> by helping them to an extend depending on their difficulties. If they were at a wall, I guided them more. Usually by writing, drawing and writing pseudo code for them. Big part of what I looked at is thinking if they are handling problems in small enough pieces.</p>
 
 <p id="h4" class="intend4">Rocket league <i>and other games</i> (Gaming)</p>
 <p class="intend5">In rocket league, I have been acting as a type of guru in a community where I had earned respect as a very talented player and teacher/coach. I have in total over 5000 hours in the game and I have played with top players, including games with pro players. I had learnt to understand and see the game in a more broad manner, in a more meta manner. In example of instead of thinking as one action and figuring how to do best in that, I instead looked at am I in good position in the first place. If your actions feel hard to do and you are proficient player/actor, usually it just means that you are having difficulties with the actions you take because of the situation you find yourself in. To improve in those situations you have to find a way to have better position to make the action less effortful.</p>
@@ -27,15 +27,15 @@
 <img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271" class="intend2">
 
 <details><summary id="h2" class="intend2">Blender (self made models)</summary>
-<p class="intend2">Ice Platform with breakable ice (Self made in blender)</p>
+<p class="intend3">Ice Platform with breakable ice (Self made in blender)</p>
 <br>
-<img src="img/Ice_platform_and_break.png" alt="Ice Platform" class="intend2">
-<p class="intend2">Grass Platform (Self made in blender)</p>
+<img src="img/Ice_platform_and_break.png" alt="Ice Platform" class="intend3">
+<p class="intend3">Grass Platform (Self made in blender)</p>
 <br>
-<img src="img/Grass_Platform.png" alt="Grass Platform" class="intend2">
+<img src="img/Grass_Platform.png" alt="Grass Platform" class="intend3">
+</details>
 </details>
 
-</details>
 <hr class="dashed">
 <br>
 <details><summary id="h1" class="intend1">Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</summary>
