@@ -66,7 +66,7 @@
     
 <p id="h3" class="intend3">Vinyl Cutter</p>
 
-<p id="reflective-text-to-a-fabric-bag"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
+<p id="h4" class="intend4">Fabric Bag with Reflective Text</p>
 
 <details><summary class="intend5">a Fabric Bag with Reflective Text</summary><img src="fabricbag.png" alt="Fabric bag" class="intend5"></details>
 
