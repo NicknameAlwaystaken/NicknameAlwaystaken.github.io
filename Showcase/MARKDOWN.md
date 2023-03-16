@@ -5,9 +5,9 @@
 [**Projects** *(MARKDOWN.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
-<details><summary>
-# Summary of experiences
-</summary>
+<details><summary><p id="h1">
+Summary of experiences
+</p></summary>
 <details>
     <summary><h2>Social aspect</h2></summary>
 
