@@ -21,12 +21,24 @@
     - In rocket league, I have been acting as a type of guru in a community where I had earned respect as a very talented player and teacher/coach. I have in total over 5000 hours in the game and I have played with top players, including games with pro players. I had learnt to understand and see the game in a more broad manner, in a more meta manner. In example of instead of thinking as one action and figuring how to do best in that, I instead looked at am I in good position in the first place. If your actions feel hard to do and you are proficient player/actor, usually it just means that you are having difficulties with the actions you take because of the situation you find yourself in. To improve in those situations you have to find a way to have better position to make the action less effortful.
 </details>
 </details>
-<details><summary><h1>Bounce Climber</h1></summary>
+<details><summary><h1>Bounce Climber (Unity Game Project)</h1></summary>
 
 ## [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
 
+<img src="Ball_Animations.png" alt="Bounce Climber">
+
+<details><summary><h3>Blender (self made models)</h3></summary>
+<details><summary><h4>Ice Platform with breakable ice (Self made in blender)</h4></summary>
+<details><summary>Ice Platform</summary><img src="Ice_platform_and_break.png" alt="Ice Platform"></details>
 </details>
-<details><summary><h1>Diginikkarit BusinessOulu</h1></summary>
+</details>
+<details><summary><h4>Grass Platform (Self made in blender)</h4></summary>
+<details><summary>Grass Platform</summary><img src="Grass_Platform.png" alt="Grass Platform"></details>
+</details>
+</details>
+
+</details>
+<details><summary><h1>Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</h1></summary>
 
 <details><summary><h2>Programming</h2></summary>
 
