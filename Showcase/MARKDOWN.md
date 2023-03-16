@@ -1,6 +1,6 @@
 **Download printable version** (Not working yet)
 
-<details><summary><h1>Work and experiences</h1></summary>
+<details><summary id="h1">Work and experiences</summary>
 
 [**Projects** *(MARKDOWN.md)*](markdown.md#diginikkarit-businessoulu)
 
@@ -56,7 +56,7 @@ Summary of experiences
 
 </details>
 <details>
-<summary><h2>FabLab</h2></summary>
+<summary id="h2">FabLab</summary>
 
 ### 3D-Printers
 
