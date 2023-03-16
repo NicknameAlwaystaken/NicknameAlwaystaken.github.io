@@ -34,8 +34,11 @@
 
 <details><summary id="h3">Blender (self made models)</summary>
 Ice Platform with breakable ice (Self made in blender)
+<br>
 <img src="img/Ice_platform_and_break.png" alt="Ice Platform">
+<br>
 Grass Platform (Self made in blender)
+<br>
 <img src="img/Grass_Platform.png" alt="Grass Platform">
 </details>
 
