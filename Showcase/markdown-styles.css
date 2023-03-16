@@ -5,6 +5,8 @@ div {
     color:black
 }
 #title {
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
     color: #3c7e0f;
     font-size: 56px;
 }
