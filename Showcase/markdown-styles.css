@@ -30,20 +30,20 @@ div {
 }
 /* Dashed border */
 hr.dashed {
-    border-top: 3px dashed #bbb;
+    border-top: 3px dashed #2f2f2f;
 }
 /* Dotted border */
 hr.dotted {
-border-top: 3px dotted #bbb;
+border-top: 3px dotted #2f2f2f;
 }
 
 /* Solid border */
 hr.solid {
-border-top: 3px solid #bbb;
+border-top: 3px solid #2f2f2f;
 }
 
 /* Rounded border */
 hr.rounded {
-border-top: 8px solid #bbb;
+border-top: 8px solid #2f2f2f;
 border-radius: 5px;
 }
