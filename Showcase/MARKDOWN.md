@@ -62,23 +62,23 @@
 
 <p id="kanais-cube"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
 
-<details><summary class="intend5">Kanai's cube (model found online)</summary><img src="img/kanaiscube.jpg" alt="Kanai's cube" class="intend5"></details>
+<details><summary class="intend5">Kanai's cube (model found online)</summary><img src="img/kanaiscube.jpg" alt="Kanai's cube" class="intend5" width="500" heigth="300"></details>
     
 <p id="h3" class="intend3">Vinyl Cutter</p>
 
 <p id="h4" class="intend4">Fabric Bag with Reflective Text</p>
 
-<details><summary class="intend5">a Fabric Bag with Reflective Text</summary><img src="img/fabricbag.jpg" alt="Fabric bag" class="intend5"></details>
+<details><summary class="intend5">a Fabric Bag with Reflective Text</summary><img src="img/fabricbag.jpg" alt="Fabric bag" class="intend5" width="400" heigth="400"></details>
 
 <p id="h3" class="intend3">Laser Cutter</p>
 
 <p id="h4" class="intend4">Keychain 2 versions (plywood self made on Inkscape)</p>
 
-<details><summary class="intend5">Keychains self made model</summary><img src="img/keychains.jpg" alt="Two Keychains" class="intend5"></details>
+<details><summary class="intend5">Keychains self made model</summary><img src="img/keychains.jpg" alt="Two Keychains" class="intend5" width="400" heigth="400"></details>
 
 <a href="https://festi.info/boxes.py/" id="h4" class="intend4">Boxes.py (plywood) (link)</a>
 
-<details><summary class="intend5">Default cardbox</summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5"></details>
+<details><summary class="intend5">Default cardbox</summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details>
 <details><summary class="intend5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details>
 </details>
 </details>
