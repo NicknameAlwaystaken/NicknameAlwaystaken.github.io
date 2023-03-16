@@ -5,10 +5,10 @@
 [**Projects** *(MARKDOWN.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
-<details><summary><p id="h1">
+<nobr><details><h1>
 Summary of experiences
-</p></summary>
-<details>
+</h1>
+<details></nobr>
     <summary><h2>Social aspect</h2></summary>
 
 ### Teaching as a peer and as a senior
