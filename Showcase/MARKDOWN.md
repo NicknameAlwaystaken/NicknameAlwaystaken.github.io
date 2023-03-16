@@ -1,7 +1,5 @@
 **Download printable version** (Not working yet)
-<br>
-<b id="title">Showcase</b>
-<br>
+<p id="title">Showcase</p>
 <details><summary id="h1">Table of contents</summary>
 
 [**Projects** *(MARKDOWN.md)*](MARKDOWN.md)
@@ -38,7 +36,6 @@ Ice Platform with breakable ice (Self made in blender)
 <img src="img/Ice_platform_and_break.png" alt="Ice Platform">
 <br>
 Grass Platform (Self made in blender)
-<br>
 <img src="img/Grass_Platform.png" alt="Grass Platform">
 </details>
 
