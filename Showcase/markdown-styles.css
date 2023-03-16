@@ -10,33 +10,45 @@ div {
     color: #3c7e0f;
     font-size: 56px;
 }
-#h1 {
+.intend1 {
     padding-left: 10px;
+}
+.intend2 {
+    padding-left: 20px;
+}
+.intend3 {
+    padding-left: 30px;
+}
+.intend4 {
+    padding-left: 40px;
+}
+.intend5 {
+    padding-left: 50px;
+}
+.intend6 {
+    padding-left: 60px;
+}
+#h1 {
     color: #0691b4;
     font-size: 32px;
 }
 #h2 {
-    padding-left: 20px;
     color: #0691b4;
     font-size: 24px;
 }
 #h3 {
-    padding-left: 30px;
     color: #0691b4;
     font-size: 20px;
 }
 #h4 {
-    padding-left: 40px;
     color: #0691b4;
     font-size: 18px;
 }
 #h5 {
-    padding-left: 50px;
     color: #0691b4;
     font-size: 18px;
 }
 #h6 {
-    padding-left: 60px;
     color: #0691b4;
     font-size: 18px;
 }

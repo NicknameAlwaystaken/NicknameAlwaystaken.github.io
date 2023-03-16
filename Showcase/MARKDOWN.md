@@ -1,15 +1,15 @@
 **Download printable version** (Not working yet)
 <p id="title">Showcase</p>
-<details><summary id="h1">Table of contents</summary>
+<details><summary id="h1" class="intend1">Table of contents</summary>
 
 [**Projects** *(MARKDOWN.md)*](MARKDOWN.md)
 </details>
 <hr class="dashed">
 <br>
-<details><summary id="h1">Summary of experiences</summary>
+<details><summary id="h1" class="intend1">Summary of experiences</summary>
 <br>
 <details>
-    <summary id="h2">Social aspect</summary>
+    <summary id="h2" class="intend2">Social aspect</summary>
 
 ### Teaching as a peer and as a senior
 
@@ -24,28 +24,27 @@
 </details>
 <hr class="dashed">
 <br>
-<details><summary id="h1">Bounce Climber (Unity Game Project)</summary>
+<details><summary id="h1" class="intend1">Bounce Climber (Unity Game Project)</summary>
 
-## [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
+<a href="https://github.com/NicknameAlwaystaken/Bounce-Climber" class="intend2">Bounce-Climber (link)</a>
 
-<img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271">
+<img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271" class="intend2">
 
-<details><summary id="h3">Blender (self made models)</summary>
-Ice Platform with breakable ice (Self made in blender)
+<details><summary id="h2" class="intend2">Blender (self made models)</summary>
+<p class="intend2">Ice Platform with breakable ice (Self made in blender)</p>
 <br>
-<img src="img/Ice_platform_and_break.png" alt="Ice Platform">
+<img src="img/Ice_platform_and_break.png" alt="Ice Platform" class="intend2">
+<p class="intend2">Grass Platform (Self made in blender)</p>
 <br>
-Grass Platform (Self made in blender)
-<br>
-<img src="img/Grass_Platform.png" alt="Grass Platform">
+<img src="img/Grass_Platform.png" alt="Grass Platform" class="intend2">
 </details>
 
 </details>
 <hr class="dashed">
 <br>
-<details><summary id="h1">Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</summary>
+<details><summary id="h1" class="intend1">Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</summary>
 <br>
-<details><summary id="h2">Programming</summary>
+<details><summary id="h2" class="intend2">Programming</summary>
 
 ### Courses
 
@@ -64,7 +63,7 @@ Grass Platform (Self made in blender)
 </details>
 <details>
 <br>
-<summary id="h2">FabLab</summary>
+<summary id="h2" class="intend2">FabLab</summary>
 
 ### 3D-Printers
 
