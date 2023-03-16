@@ -25,7 +25,7 @@
 
 ## [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
 
-<img src="Ball_Animations.png" alt="Bounce Climber">
+<img src="img/Ball_Animations.png" alt="Bounce Climber">
 
 <details><summary><h3>Blender (self made models)</h3></summary>
 <details><summary><h4>Ice Platform with breakable ice (Self made in blender)</h4></summary>
