@@ -1,11 +1,10 @@
-var counter = 0
+var counter;
 var myMarkdown;
 function setup() {
   navbar = document.getElementById("navbar");
   sticky = navbar.offsetTop;
-  myImg = document.getElementById('myImage');
+  myMarkdown = document.getElementById("markdown");
   counter = 0;
-  pic = "img/PeepoSpy.png";
 }
 function homePage() {
   window.location.href = "https://nicknamealwaystaken.github.io";
@@ -18,10 +17,10 @@ function showcasePage() {
 }
 function changeMarkdown() {
   if(counter % 2 == 0) {
-    document.getElementById("markdown").src = "README.md";
+    myMarkdown.src = "README.md";
   }
   else {
-    document.getElementById("markdown").src = "MARKDOWN.md";
+    myMarkdown.src = "MARKDOWN.md";
   }
   counter++;
 }
