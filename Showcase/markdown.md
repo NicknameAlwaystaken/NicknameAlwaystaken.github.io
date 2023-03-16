@@ -68,7 +68,7 @@
     - <details><summary>a Fabric bag with reflective text</summary><img src="fabricbag.png" alt="Fabric bag"></details>
     
 ### Laser Cutter
-    Using Inkscape to make .svg files for machines
+Using Inkscape to make .svg files for machines
 
 -   #### Keychain 2 versions (plywood)
     - <details><summary>Keychains self made model</summary><img src="keychain.png" alt="Two Keychains"></details>
