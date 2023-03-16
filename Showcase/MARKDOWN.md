@@ -1,8 +1,6 @@
-**Download printable version** (Not working yet)
 <p id="title">Showcase</p>
 <details><summary id="h1" class="intend1">Table of contents</summary>
-
-[**Projects** *(MARKDOWN.md)*](MARKDOWN.md)
+<a href="MARKDOWN.md" id="h4" class="intend4"><b>Projects</b> <i>(MARKDOWN.md)</i> (link)</a>
 </details>
 <hr class="dashed">
 <br>
@@ -60,25 +58,27 @@
 <br>
 <summary id="h2" class="intend2">FabLab</summary>
 
-### 3D-Printers
+<p id="h3" class="intend3">3D-Printers</p>
 
--    #### [Kanai's cube (link)](https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/)
-    <details><summary>Kanai's cube (model found online)</summary><img src="kanaiscube.png" alt="Kanai's cube"></details>
-    
-### Vinyl Cutter
+<p id="kanais-cube"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
 
--   #### Reflective Text to a Fabric Bag
-    <details><summary>a Fabric bag with reflective text</summary><img src="fabricbag.png" alt="Fabric bag"></details>
+<details><summary class="intend5">Kanai's cube (model found online)</summary><img src="kanaiscube.png" alt="Kanai's cube" class="intend5"></details>
     
-### Laser Cutter
+<p id="h3" class="intend3">Vinyl Cutter</p>
 
--   #### Keychain 2 versions (plywood self made on Inkscape)
-    <details><summary>Keychains self made model</summary><img src="keychain.png" alt="Two Keychains"></details>
-    
--   #### [Boxes.py (plywood) (link)](https://festi.info/boxes.py/)
-    <details><summary>Default cardbox</summary><img src="cardbox.png" alt="Cardbox"></details>
-    <details><summary>Default starbox</summary><img src="starbox.png" alt="Starbox"></details>
+<p id="reflective-text-to-a-fabric-bag"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
 
+<details><summary class="intend5">a Fabric Bag with Reflective Text</summary><img src="fabricbag.png" alt="Fabric bag" class="intend5"></details>
     
+<p id="h3" class="intend3">Laser Cutter</p>
+
+<p id="h4" class="intend4">Keychain 2 versions (plywood self made on Inkscape)</p>
+
+<details><summary class="intend5">Keychains self made model</summary><img src="keychain.png" alt="Two Keychains" class="intend5"></details>
+
+<p id="h4" class="intend4"><a href="https://festi.info/boxes.py/" id="h4" class="intend4">Boxes.py (plywood) (link)</a></p>
+
+<details><summary class="intend5">Default cardbox</summary><img src="cardbox.png" alt="Cardbox" class="intend5"></details>
+<details><summary class="intend5">Default starbox</summary><img src="starbox.png" alt="Starbox" class="intend5"></details>
 </details>
 </details>
