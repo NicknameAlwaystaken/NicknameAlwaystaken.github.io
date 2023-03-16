@@ -29,16 +29,16 @@ Summary of experiences
 <img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271">
 
 <details><summary id="h3">Blender (self made models)</summary>
-    -   Ice Platform with breakable ice (Self made in blender)
-    <img src="img/Ice_platform_and_break.png" alt="Ice Platform">
-    -   Grass Platform (Self made in blender)
-    <img src="img/Grass_Platform.png" alt="Grass Platform">
+Ice Platform with breakable ice (Self made in blender)
+<img src="img/Ice_platform_and_break.png" alt="Ice Platform">
+Grass Platform (Self made in blender)
+<img src="img/Grass_Platform.png" alt="Grass Platform">
 </details>
 
 </details>
-<details><summary><h1>Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</h1></summary>
+<details><summary id="h1">Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</summary>
 
-<details><summary><h2>Programming</h2></summary>
+<details><summary id="h2">Programming</summary>
 
 ### Courses
 
