@@ -1,8 +1,11 @@
 **Download printable version** (Not working yet)
 <br>
+
+# Showcase
+<br>
 <details><summary id="h1">Work and experiences</summary>
 
-[**Projects** *(MARKDOWN.md)*](markdown.md#diginikkarit-businessoulu)
+[**Projects** *(MARKDOWN.md)*](MARKDOWN.md#showcase)
 </details>
 <hr class="dashed">
 <br>
