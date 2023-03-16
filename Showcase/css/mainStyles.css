@@ -49,3 +49,8 @@ body {
   .sticky + .content {
     padding-top: 60px;
   }
+
+  #markdown {
+    padding-left: 10px;
+    background-color: grey;
+  }
