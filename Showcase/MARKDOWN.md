@@ -5,7 +5,9 @@
 [**Projects** *(MARKDOWN.md)*](markdown.md#diginikkarit-businessoulu)
 
 </details>
-<details><summary><h1>Summary of experiences</h1></summary>
+<details><summary>
+# Summary of experiences
+</summary>
 <details>
     <summary><h2>Social aspect</h2></summary>
 
@@ -59,21 +61,21 @@
 ### 3D-Printers
 
 -    #### [Kanai's cube (link)](https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/)
-    -   <details><summary>Kanai's cube (model found online)</summary><img src="kanaiscube.png" alt="Kanai's cube"></details>
+    <details><summary>Kanai's cube (model found online)</summary><img src="kanaiscube.png" alt="Kanai's cube"></details>
     
 ### Vinyl Cutter
 
 -   #### Reflective Text to a Fabric Bag
-    -  <details><summary>a Fabric bag with reflective text</summary><img src="fabricbag.png" alt="Fabric bag"></details>
+    <details><summary>a Fabric bag with reflective text</summary><img src="fabricbag.png" alt="Fabric bag"></details>
     
 ### Laser Cutter
 
 -   #### Keychain 2 versions (plywood self made on Inkscape)
-    -   <details><summary>Keychains self made model</summary><img src="keychain.png" alt="Two Keychains"></details>
+    <details><summary>Keychains self made model</summary><img src="keychain.png" alt="Two Keychains"></details>
     
 -   #### [Boxes.py (plywood) (link)](https://festi.info/boxes.py/)
-    -   <details><summary>Default cardbox</summary><img src="cardbox.png" alt="Cardbox"></details>
-    -   <details><summary>Default starbox</summary><img src="starbox.png" alt="Starbox"></details>
+    <details><summary>Default cardbox</summary><img src="cardbox.png" alt="Cardbox"></details>
+    <details><summary>Default starbox</summary><img src="starbox.png" alt="Starbox"></details>
 
     
 </details>
