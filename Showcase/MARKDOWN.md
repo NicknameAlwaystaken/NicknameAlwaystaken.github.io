@@ -79,6 +79,6 @@
 <a href="https://festi.info/boxes.py/" id="h4" class="intend4">Boxes.py (plywood) (link)</a>
 
 <details><summary class="intend5">Default cardbox</summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5"></details>
-<details><summary class="intend5">Default starbox</summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details>
+<details><summary class="intend5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details>
 </details>
 </details>
