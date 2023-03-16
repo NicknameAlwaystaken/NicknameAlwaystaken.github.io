@@ -1,6 +1,9 @@
 div {
     font-size: 18px;
 }
+*::marker {
+    color:black
+}
 #h1 {
     color: #0691b4;
     font-size: 32px;
