@@ -23,9 +23,8 @@
 <details><summary id="h1" class="intend1">Bounce Climber (Unity Game Project)</summary>
 
 <a href="https://github.com/NicknameAlwaystaken/Bounce-Climber" class="intend2">Bounce-Climber (link)</a>
-
 <img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271" class="intend2">
-
+<br>
 <details><summary id="h2" class="intend2">Blender (self made models)</summary>
 <br>
 <p class="intend3">Ice Platform with breakable ice (Self made in blender)</p>
