@@ -27,11 +27,11 @@
 <img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271" class="intend2">
 
 <details><summary id="h2" class="intend2">Blender (self made models)</summary>
+<br>
 <p class="intend3">Ice Platform with breakable ice (Self made in blender)</p>
-<br>
 <img src="img/Ice_platform_and_break.png" alt="Ice Platform" class="intend3">
-<p class="intend3">Grass Platform (Self made in blender)</p>
 <br>
+<p class="intend3">Grass Platform (Self made in blender)</p>
 <img src="img/Grass_Platform.png" alt="Grass Platform" class="intend3">
 </details>
 </details>
