@@ -1,11 +1,10 @@
 **Download printable version** (Not working yet)
 <br>
-
-# Showcase
+<p id="h1">Showcase</p>
 <br>
-<details><summary id="h1">Work and experiences</summary>
+<details><summary id="h1">Table of contents</summary>
 
-[**Projects** *(MARKDOWN.md)*](MARKDOWN.md#showcase)
+[**Projects** *(MARKDOWN.md)*](MARKDOWN.md)
 </details>
 <hr class="dashed">
 <br>
