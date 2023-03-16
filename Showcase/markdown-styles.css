@@ -1,6 +1,10 @@
 div {
     font-size: 18px;
 }
+p {
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+}
 *::marker {
     color:black
 }
