@@ -1,6 +1,6 @@
 **Download printable version** (Not working yet)
 <br>
-<p id="title">Showcase</p>
+<b id="title">Showcase</b>
 <br>
 <details><summary id="h1">Table of contents</summary>
 
