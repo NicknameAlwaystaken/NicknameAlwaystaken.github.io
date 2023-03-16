@@ -4,6 +4,10 @@ div {
 *::marker {
     color:black
 }
+#title {
+    color: #3cd400;
+    font-size: 56px;
+}
 #h1 {
     color: #0691b4;
     font-size: 32px;
