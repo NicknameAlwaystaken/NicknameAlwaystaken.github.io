@@ -3,6 +3,7 @@ body {
     margin: 0;
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(172, 172, 172);
   }
   
   .header {
@@ -52,5 +53,4 @@ body {
 
   #markdown {
     padding-left: 10px;
-    background-color: rgb(172, 172, 172);
   }
