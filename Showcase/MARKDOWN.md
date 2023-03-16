@@ -1,13 +1,13 @@
 **Download printable version** (Not working yet)
-
+<br>
 <details><summary id="h1">Work and experiences</summary>
 
 [**Projects** *(MARKDOWN.md)*](markdown.md#diginikkarit-businessoulu)
-
 </details>
-<details><summary id="h1">
-Summary of experiences
-</summary>
+<br>
+<br>
+<details><summary id="h1">Summary of experiences</summary>
+<br>
 <details>
     <summary id="h2">Social aspect</summary>
 
@@ -22,6 +22,8 @@ Summary of experiences
     -   In rocket league, I have been acting as a type of guru in a community where I had earned respect as a very talented player and teacher/coach. I have in total over 5000 hours in the game and I have played with top players, including games with pro players. I had learnt to understand and see the game in a more broad manner, in a more meta manner. In example of instead of thinking as one action and figuring how to do best in that, I instead looked at am I in good position in the first place. If your actions feel hard to do and you are proficient player/actor, usually it just means that you are having difficulties with the actions you take because of the situation you find yourself in. To improve in those situations you have to find a way to have better position to make the action less effortful.
 </details>
 </details>
+<br>
+<br>
 <details><summary id="h1">Bounce Climber (Unity Game Project)</summary>
 
 ## [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
@@ -36,8 +38,10 @@ Grass Platform (Self made in blender)
 </details>
 
 </details>
+<br>
+<br>
 <details><summary id="h1">Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</summary>
-
+<br>
 <details><summary id="h2">Programming</summary>
 
 ### Courses
@@ -56,6 +60,7 @@ Grass Platform (Self made in blender)
 
 </details>
 <details>
+<br>
 <summary id="h2">FabLab</summary>
 
 ### 3D-Printers
