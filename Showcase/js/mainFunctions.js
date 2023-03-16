@@ -1,7 +1,7 @@
 var counter;
 var myMarkdown;
 
-const app = document.getElementById('zero-md')
+const app = document.getElementById('markdown')
 const run = async () => {
   app.src = 'MARKDOWN.md'
   await app.render({
