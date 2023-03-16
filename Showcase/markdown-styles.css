@@ -28,26 +28,25 @@ div {
     color: #0691b4;
     font-size: 18px;
 }
+hr {
+    background-color: rgb(172, 172, 172);
+}
 /* Dashed border */
 hr.dashed {
-    background-color: rgb(172, 172, 172);
     border-top: 3px dashed #2f2f2f;
 }
 /* Dotted border */
 hr.dotted {
-    background-color: rgb(172, 172, 172);
     border-top: 3px dotted #2f2f2f;
 }
 
 /* Solid border */
 hr.solid {
-    background-color: rgb(172, 172, 172);
     border-top: 3px solid #2f2f2f;
 }
 
 /* Rounded border */
 hr.rounded {
-    background-color: rgb(172, 172, 172);
     border-top: 8px solid #2f2f2f;
     border-radius: 5px;
 }
