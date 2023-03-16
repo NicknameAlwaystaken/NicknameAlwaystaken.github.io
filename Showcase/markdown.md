@@ -25,13 +25,13 @@
 
 ## [Bounce-Climber (link)](https://github.com/NicknameAlwaystaken/Bounce-Climber)
 
-<img src="img/Ball_Animations.png" alt="Bounce Climber">
+<img src="img/Ball_Animations.png" alt="Bounce Climber" width="300" heigth="271">
 
 <details><summary><h3>Blender (self made models)</h3></summary>
 <summary><h4>Ice Platform with breakable ice (Self made in blender)</h4></summary>
-<img src="img/Ice_platform_and_break.png" alt="Ice Platform">
+<img src="img/Ice_platform_and_break.png" alt="Ice Platform" width="300" heigth="271">
 <summary><h4>Grass Platform (Self made in blender)</h4></summary>
-<img src="img/Grass_Platform.png" alt="Grass Platform">
+<img src="img/Grass_Platform.png" alt="Grass Platform" width="300" heigth="271">
 </details>
 
 </details>
