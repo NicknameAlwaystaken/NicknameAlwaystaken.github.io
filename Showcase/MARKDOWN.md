@@ -60,10 +60,10 @@
 <!--3-->
 
 </details>
-<details>
-<br>
 <!--2-->
-<div class="intend2"><summary id="h2">FabLab</summary>
+<div class="intend2"><details>
+<br>
+<summary id="h2">FabLab</summary>
 <div class="intend3"><ul>
 <!--3-->
 <li><p id="h3">3D-Printers</p></li>
@@ -99,8 +99,9 @@
 </div>
 <!--3-->
 </div>
-<!--2-->
 </ul>
 </div>
 </details>
+</div>
+<!--2-->
 </details>
