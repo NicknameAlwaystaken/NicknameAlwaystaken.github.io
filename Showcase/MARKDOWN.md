@@ -42,45 +42,64 @@
 <br>
 <details><summary id="h2" class="intend2">Programming</summary>
 
-<p id="h3" class="intend3">Courses</p>
-
+<!--3-->
+<div class="intend3"><p id="h3">Courses</p>
+<!--4-->
 <div id="moocfi-python-programming-2023"><a href="https://programming-23.mooc.fi/" id="h4" class="intend4">MOOC.fi Python Programming 2023 (link)</a>
 <p class="intend5">In this course I have completed <b>Introduction to Programming</b> with 100% points. I started working on it 20.2.2023 and finished exercises by 14.3.2023.<br>I had immediately started next course <b>Advanced Course in Programming</b> on the next day 14.3.2023.</p>
 </div>
-<p id="sqltrainer-moocfi"><a href="https://sqltrainer.withmooc.fi/#1" id="h4" class="intend4">SQLTrainer MOOC.fi (link)</a></p>
+<div id="sqltrainer-moocfi"><a href="https://sqltrainer.withmooc.fi/#1" id="h4" class="intend4">SQLTrainer MOOC.fi (link)</a>
 <p class="intend5">In this trainer I have completed tasks from 1 to 71. I didn't pursue it further until I might need more practice.</p>
+</div>
 
-<p id="elements-of-ai"><a href="https://www.elementsofai.com/fi" id="h4" class="intend4">Elements of Ai (link)</a></p>
+<div id="elements-of-ai"><a href="https://www.elementsofai.com/fi" id="h4" class="intend4">Elements of Ai (link)</a>
 <p class="intend5">I signed up for the course and started doing it slowly. Only done first part so far.</p>
+</div>
+<!--4-->
+</div>
+<!--3-->
 
 </details>
 <details>
 <br>
-<summary id="h2" class="intend2">FabLab</summary>
+<!--2-->
+<div class="intend2"><summary id="h2">FabLab</summary>
 <div class="intend3"><ul>
+<!--3-->
 <li><p id="h3">3D-Printers</p></li>
 
 <p id="kanais-cube"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
 
 <details><summary id="h5" class="intend5">Kanai's cube (model found online) <i>(img)</i></summary><img src="img/kanaiscube.jpg" alt="Kanai's cube" class="intend5" width="500" heigth="300"></details>
 
-<li class="intend3"><p id="h3">Vinyl Cutter</p></li>
+<!--3-->
+<!--3-->
+<div class="intend3"><li><p id="h3">Vinyl Cutter</p></li>
 
 <p id="h4" class="intend4">Fabric Bag with Reflective Text</p>
 
 <details><summary id="h5" class="intend5">a Fabric Bag with Reflective Text <i>(img)</i></summary><img src="img/fabricbag.jpg" alt="Fabric bag" class="intend5" width="400" heigth="400"></details>
-
-<li class="intend3"><p id="h3">Laser Cutter</p></li>
+</div>
+<!--3-->
+<!--3-->
+<div class="intend3"><li><p id="h3">Laser Cutter</p></li>
 
 <p id="h4" class="intend4">Keychain 2 versions (plywood self made on Inkscape)</p>
 
-<details><summary id="h5" class="intend5">Keychains self made model <i>(img)</i></summary><img src="img/keychains.jpg" alt="Two Keychains" class="intend5" width="400" heigth="400"></details>
+<div class="intend5"><details><summary id="h5">Keychains self made model <i>(img)</i></summary><img src="img/keychains.jpg" alt="Two Keychains" class="intend5" width="400" heigth="400"></details></div>
 
-<a href="https://festi.info/boxes.py/" id="h4" class="intend4">Boxes.py (plywood) (link)</a>
+<div class="intend4"><a href="https://festi.info/boxes.py/" id="h4">Boxes.py (plywood) (link)</a>
+<div class="intend5">
 <ul>
-<li class="intend5"><details><summary id="h5">Default cardbox <i>(img)</i></summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details></li>
-<li class="intend5"><details><summary id="h5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details></li>
+<li><details><summary id="h5">Default cardbox <i>(img)</i></summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details></li>
+<li><details><summary id="h5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details></li>
 </ul>
+</div>
+</div>
+</div>
+<!--3-->
+</div>
+<!--2-->
 </ul>
 </div>
 </details>
