@@ -57,20 +57,20 @@
 <details>
 <br>
 <summary id="h2" class="intend2">FabLab</summary>
-
-<p id="h3" class="intend3">3D-Printers</p>
+<ul>
+<li><p id="h3" class="intend3">3D-Printers</p></li>
 
 <p id="kanais-cube"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
 
 <details><summary id="h5" class="intend5">Kanai's cube (model found online) <i>(img)</i></summary><img src="img/kanaiscube.jpg" alt="Kanai's cube" class="intend5" width="500" heigth="300"></details>
-    
-<p id="h3" class="intend3">Vinyl Cutter</p>
+
+<li><p id="h3" class="intend3">Vinyl Cutter</p></li>
 
 <p id="h4" class="intend4">Fabric Bag with Reflective Text</p>
 
 <details><summary id="h5" class="intend5">a Fabric Bag with Reflective Text <i>(img)</i></summary><img src="img/fabricbag.jpg" alt="Fabric bag" class="intend5" width="400" heigth="400"></details>
 
-<p id="h3" class="intend3">Laser Cutter</p>
+<li><p id="h3" class="intend3">Laser Cutter</p></li>
 
 <p id="h4" class="intend4">Keychain 2 versions (plywood self made on Inkscape)</p>
 
@@ -80,5 +80,6 @@
 
 <details><summary id="h5" class="intend5">Default cardbox <i>(img)</i></summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details>
 <details><summary id="h5" class="intend5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details>
+</ul>
 </details>
 </details>
