@@ -77,9 +77,10 @@
 <details><summary id="h5" class="intend5">Keychains self made model <i>(img)</i></summary><img src="img/keychains.jpg" alt="Two Keychains" class="intend5" width="400" heigth="400"></details>
 
 <a href="https://festi.info/boxes.py/" id="h4" class="intend4">Boxes.py (plywood) (link)</a>
-
-<details><summary id="h5" class="intend5">Default cardbox <i>(img)</i></summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details>
-<details><summary id="h5" class="intend5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details>
+<ul>
+<li><details><summary id="h5" class="intend5">Default cardbox <i>(img)</i></summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details></li>
+<li><details><summary id="h5" class="intend5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details></li>
+</ul>
 </ul>
 </details>
 </details>
