@@ -9,6 +9,7 @@ body {
   width: fit-content;
   block-size: fit-content;
 }
+/* https://css-tricks.com/a-perfect-table-of-contents-with-html-css/ referring to this */
 .toc-list, .toc-list ol {
   list-style-type: none;
 }
@@ -20,6 +21,17 @@ body {
 .toc-list ol {
   padding-inline-start: 2ch;
 }
+.toc-list li > a {
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: auto max-content;
+  align-items: end;
+}
+
+.toc-list li > a > .page {
+  text-align: right;
+}
+/* https://css-tricks.com/a-perfect-table-of-contents-with-html-css/ referring to this */
 .header {
   background-color: #f1f1f1;
   padding: 30px;
