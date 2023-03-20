@@ -57,7 +57,7 @@
 <details>
 <br>
 <summary id="h2" class="intend2">FabLab</summary>
-<ul class="intend3">
+<div class="intend3"><ul>
 <li><p id="h3">3D-Printers</p></li>
 
 <p id="kanais-cube"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
@@ -82,5 +82,6 @@
 <li class="intend5"><details><summary id="h5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details></li>
 </ul>
 </ul>
+</div>
 </details>
 </details>
