@@ -1,6 +1,6 @@
 <p id="title">Showcase</p>
 <details><summary id="h1" class="intend1">Table of contents</summary>
-<a href="MARKDOWN.md" id="h4" class="intend4"><b>Projects</b> <i>(MARKDOWN.md)</i> (link)</a>
+<a href="MARKDOWN.md" class="intend4"><b>Projects</b> <i>(MARKDOWN.md)</i> (link)</a>
 </details>
 <hr class="dashed">
 <br>
@@ -28,10 +28,10 @@
 <br>
 <details><summary id="h2" class="intend2">Blender (self made models)</summary>
 <br>
-<p class="intend3">Ice Platform with breakable ice (Self made in blender)</p>
+<p id="h3" class="intend3">Ice Platform with breakable ice (Self made in blender)</p>
 <img src="img/Ice_platform_and_break.png" alt="Ice Platform" class="intend3">
 <br>
-<p class="intend3">Grass Platform (Self made in blender)</p>
+<p id="h3" class="intend3">Grass Platform (Self made in blender)</p>
 <img src="img/Grass_Platform.png" alt="Grass Platform" class="intend3">
 </details>
 </details>
