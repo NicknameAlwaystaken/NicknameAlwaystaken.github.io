@@ -1,9 +1,12 @@
 <p id="title">Showcase</p>
+<!--1-->
 <details><summary id="h1" class="intend1">Table of contents</summary>
 <a href="MARKDOWN.md" class="intend4"><b>Projects</b> <i>(MARKDOWN.md)</i> (link)</a>
 </details>
 <hr class="dashed">
 <br>
+<!--1-->
+<!--1-->
 <details><summary id="h1" class="intend1">Summary of experiences</summary>
 <br>
 <details>
@@ -20,6 +23,8 @@
 </details>
 <hr class="dashed">
 <br>
+<!--1-->
+<!--1-->
 <details><summary id="h1" class="intend1">Bounce Climber (Unity Game Project)</summary>
 
 <a href="https://github.com/NicknameAlwaystaken/Bounce-Climber" class="intend2">Bounce-Climber (link)</a>
@@ -38,6 +43,8 @@
 
 <hr class="dashed">
 <br>
+<!--1-->
+<!--1-->
 <details><summary id="h1" class="intend1">Diginikkarit BusinessOulu (On-The-Job Experience and FabLab)</summary>
 <br>
 <details><summary id="h2" class="intend2">Programming</summary>
@@ -76,26 +83,36 @@
 <!--3-->
 <div class="intend3"><li><p id="h3">Vinyl Cutter</p></li>
 
+<!--4-->
 <p id="h4" class="intend4">Fabric Bag with Reflective Text</p>
-
+<!--5-->
 <details><summary id="h5" class="intend5">a Fabric Bag with Reflective Text <i>(img)</i></summary><img src="img/fabricbag.jpg" alt="Fabric bag" class="intend5" width="400" heigth="400"></details>
 </div>
+<!--5-->
+<!--4-->
 <!--3-->
 <!--3-->
 <div class="intend3"><li><p id="h3">Laser Cutter</p></li>
 
+<!--4-->
 <p id="h4" class="intend4">Keychain 2 versions (plywood self made on Inkscape)</p>
-
+<!--5-->
 <div class="intend5"><details><summary id="h5">Keychains self made model <i>(img)</i></summary><img src="img/keychains.jpg" alt="Two Keychains" class="intend5" width="400" heigth="400"></details></div>
+<!--5-->
+<!--4-->
 
+<!--4-->
 <div class="intend4"><a href="https://festi.info/boxes.py/" id="h4">Boxes.py (plywood) (link)</a>
+<!--5-->
 <div class="intend5">
 <ul>
 <li><details><summary id="h5">Default cardbox <i>(img)</i></summary><img src="img/cardbox.jpg" alt="Cardbox" class="intend5" width="400" heigth="400"></details></li>
 <li><details><summary id="h5">Default starbox <i>(no image yet)</i></summary><img src="img/starbox.jpg" alt="Starbox" class="intend5"></details></li>
 </ul>
 </div>
+<!--5-->
 </div>
+<!--4-->
 </div>
 <!--3-->
 </div>

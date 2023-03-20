@@ -1,4 +1,5 @@
 var counter;
+/*
 var myMarkdown;
 
 const app = document.getElementById('markdown')
@@ -42,6 +43,7 @@ async function render(opts = {}) {
   // Finally, fire the rendered event
   this.fire('zero-md-rendered', { stamped })
 }
+*/
 
 function setup() {
   navbar = document.getElementById("navbar");
