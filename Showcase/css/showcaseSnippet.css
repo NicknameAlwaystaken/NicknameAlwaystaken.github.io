@@ -4,6 +4,29 @@ div {
 ul {
     padding-inline-start: 30px;
 }
+/* https://css-tricks.com/a-perfect-table-of-contents-with-html-css/ referring to this */
+.toc-list, .toc-list ol {
+  list-style-type: none;
+}
+
+.toc-list {
+  padding: 0;
+}
+
+.toc-list ol {
+  padding-inline-start: 2ch;
+}
+.toc-list li > a {
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: auto max-content;
+  align-items: end;
+}
+
+.toc-list li > a > .page {
+  text-align: right;
+}
+/* https://css-tricks.com/a-perfect-table-of-contents-with-html-css/ referring to this */
 p {
     margin-block-start: 0.5em;
     margin-block-end: 0.5em;
