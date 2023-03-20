@@ -1,0 +1,81 @@
+div {
+    font-size: 18px;
+}
+p {
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
+*::marker {
+    color:black
+}
+#title {
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+    color: #2f1aa1;
+    font-size: 56px;
+}
+.intend1 {
+    padding-left: 10px;
+}
+.intend2 {
+    padding-left: 20px;
+}
+.intend3 {
+    padding-left: 30px;
+}
+.intend4 {
+    padding-left: 40px;
+}
+.intend5 {
+    padding-left: 50px;
+}
+.intend6 {
+    padding-left: 60px;
+}
+#h1 {
+    color: #006dde;
+    font-size: 32px;
+}
+#h2 {
+    color: #235793;
+    font-size: 24px;
+}
+#h3 {
+    color: #024a6c;
+    font-size: 20px;
+}
+#h4 {
+    color: #01083b;
+    font-size: 18px;
+}
+#h5 {
+    color: #513582;
+    font-size: 18px;
+}
+#h6 {
+    color: #0691b4;
+    font-size: 18px;
+}
+hr {
+    border-width: 0px;
+    background-color: rgb(172, 172, 172);
+}
+/* Dashed border */
+hr.dashed {
+    border-top: 3px dashed #2f2f2f;
+}
+/* Dotted border */
+hr.dotted {
+    border-top: 3px dotted #2f2f2f;
+}
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #2f2f2f;
+}
+
+/* Rounded border */
+hr.rounded {
+    border-top: 8px solid #2f2f2f;
+    border-radius: 5px;
+}
