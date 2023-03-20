@@ -44,9 +44,9 @@
 
 <p id="h3" class="intend3">Courses</p>
 
-<p id="moocfi-python-programming-2023"><a href="https://programming-23.mooc.fi/" id="h4" class="intend4">MOOC.fi Python Programming 2023 (link)</a></p>
+<div id="moocfi-python-programming-2023"><a href="https://programming-23.mooc.fi/" id="h4" class="intend4">MOOC.fi Python Programming 2023 (link)</a>
 <p class="intend5">In this course I have completed <b>Introduction to Programming</b> with 100% points. I started working on it 20.2.2023 and finished exercises by 14.3.2023.<br>I had immediately started next course <b>Advanced Course in Programming</b> on the next day 14.3.2023.</p>
-
+</div>
 <p id="sqltrainer-moocfi"><a href="https://sqltrainer.withmooc.fi/#1" id="h4" class="intend4">SQLTrainer MOOC.fi (link)</a></p>
 <p class="intend5">In this trainer I have completed tasks from 1 to 71. I didn't pursue it further until I might need more practice.</p>
 
