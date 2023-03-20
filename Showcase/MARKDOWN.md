@@ -57,8 +57,8 @@
 <details>
 <br>
 <summary id="h2" class="intend2">FabLab</summary>
-<ul>
-<li class="intend3"><p id="h3">3D-Printers</p></li>
+<ul class="intend3">
+<li><p id="h3">3D-Printers</p></li>
 
 <p id="kanais-cube"><a href="https://www.stlfinder.com/model/diablo-3-kanai-s-cube-2Vk35e8E/2603796/" id="h4" class="intend4">Kanai's cube (link)</a></p>
 
