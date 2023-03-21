@@ -7,6 +7,9 @@ ul {
 .toc-list-div {
     padding-left: 40px;
 }
+.skills div {
+    line-height: 0.3ch;
+}
 /* https://css-tricks.com/a-perfect-table-of-contents-with-html-css/ referring to this */
 /*.toc-list, */.toc-list ol {
   list-style-type: none;
