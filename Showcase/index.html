@@ -9,6 +9,9 @@
 
 <body onload="setup()">
   <script src="js/mainFunctions.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+    integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
   <div id="navbar">
     <a href="javascript:homePage()">Home</a>
@@ -16,9 +19,12 @@
     <a href="javascript:practicePage()">Practice Page</a>
     <a href="javascript:void(0)">Something else</a>
   </div>
-  <p><b>Download pdf version</b> <i>(Not working yet)</i></p>
+  <button type="button" onclick="downloadCode();">Download as PDF</button>
+  <!--
+    <p><b>Download pdf version</b> <i>(Not working yet)</i></p>
+  -->
   <!-- START OF DOCUMENT-->
-  <div id="loadshowcasesnippet">
+  <div id="showcasesnippet">
     <p id="title">Showcase</p>
     <div class="intend1" id="table_of_contents">
       <details open>
