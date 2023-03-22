@@ -3,10 +3,10 @@ var htmlToPrint = "showcasesnippet"
 var downloadedFilename = 'nicknamealwaystaken_portfolio.pdf'
 
 function generatePDF() {
-  const details = document.querySelectorAll('details')
-  const hr = document.querySelectorAll('hr')
-  const anchor = document.querySelectorAll('a')
-  const removable = document.querySelectorAll('.removableinpdfprint')
+  const details = document.querySelectorAll('#showcasesnippet details')
+  const hr = document.querySelectorAll('#showcasesnippet hr')
+  const anchor = document.querySelectorAll('#showcasesnippet a')
+  const removable = document.querySelectorAll('#showcasesnippet .removableinpdfprint')
   const sheet = new CSSStyleSheet();
   sheet.replaceSync(`
   details > summary {
