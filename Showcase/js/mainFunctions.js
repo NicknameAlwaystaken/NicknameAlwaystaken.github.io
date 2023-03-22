@@ -5,6 +5,10 @@ function generatePDF() {
   const details = document.querySelectorAll('details')
   const hr = document.querySelectorAll('hr')
   const anchor = document.querySelectorAll('a')
+  const removable = document.querySelectorAll('.removableinpdfprint')
+  Array.from(removable).forEach(function(obj, idx) { 
+      obj.innerHTML = '';
+  });
   Array.from(anchor).forEach(function(obj, idx) { 
       obj.innerHTML = obj.innerHTML.replace("(link)", "");
       obj.removeAttribute("href");
