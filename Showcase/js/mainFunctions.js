@@ -7,6 +7,34 @@ function generatePDF() {
   const hr = document.querySelectorAll('hr')
   const anchor = document.querySelectorAll('a')
   const removable = document.querySelectorAll('.removableinpdfprint')
+  const sheet = new CSSStyleSheet();
+  sheet.replaceSync(`
+  details > summary {
+    list-style: none;
+  }
+  
+  details > summary::marker, // Latest Chrome, Edge, Firefox
+  details > summary::-webkit-details-marker // Safari
+  {
+    display: none;
+  }
+  `);
+  // Apply the stylesheet to a document:
+  document.adoptedStyleSheets = [sheet];
+  /*
+  var style = document.createElement('style');
+  style.innerHTML = `
+  details > summary {
+    list-style: none;
+  }
+  
+  details > summary::marker, // Latest Chrome, Edge, Firefox
+  details > summary::-webkit-details-marker // Safari
+  {
+    display: none;
+  }
+  `;
+  */
   Array.from(removable).forEach(function(obj, idx) { 
       obj.innerHTML = '';
   });
@@ -25,7 +53,7 @@ function generatePDF() {
     }
 
   });
-  const element = document.getElementById(htmlToPrint);
+  const element = document.getElementById(htmlToPrint).innerHTML;
   //element.style.border = "1px solid black";
   html2pdf().from(element).save(downloadedFilename);
   
