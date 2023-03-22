@@ -1,5 +1,6 @@
 var counter;
 var htmlToPrint = "showcasesnippet"
+var downloadedFilename = 'nicknamealwaystaken_portfolio.pdf'
 
 function generatePDF() {
   const details = document.querySelectorAll('details')
@@ -25,12 +26,13 @@ function generatePDF() {
 
   });
   const element = document.getElementById(htmlToPrint);
-  document.getElementById(htmlToPrint).style.border = "1px solid black";
-  html2pdf().from(element).save('download.pdf');
+  //element.style.border = "1px solid black";
+  html2pdf().from(element).save(downloadedFilename);
   
 }
 
 function downloadCode() {
+  document.getElementById('filename').innerHTML = downloadedFilename
   generatePDF();
   setTimeout(function () { window.location = window.location; }, 3000);
 }
