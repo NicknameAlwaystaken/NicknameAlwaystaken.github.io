@@ -7,6 +7,7 @@ function generatePDF() {
   const hr = document.querySelectorAll('#showcasesnippet hr')
   const anchor = document.querySelectorAll('#showcasesnippet a')
   const removable = document.querySelectorAll('#showcasesnippet .removableinpdfprint')
+  const summaries = document.querySelectorAll('#showcasesnippet summary')
   const sheet = new CSSStyleSheet();
   sheet.replaceSync(`
   details > summary {
@@ -18,23 +19,13 @@ function generatePDF() {
   {
     display: none;
   }
+  details > summary:first-of-type {
+    counter-increment: none;
+  }
   `);
   // Apply the stylesheet to a document:
   document.adoptedStyleSheets = [sheet];
-  /*
-  var style = document.createElement('style');
-  style.innerHTML = `
-  details > summary {
-    list-style: none;
-  }
-  
-  details > summary::marker, // Latest Chrome, Edge, Firefox
-  details > summary::-webkit-details-marker // Safari
-  {
-    display: none;
-  }
-  `;
-  */
+
   Array.from(removable).forEach(function(obj, idx) { 
       obj.innerHTML = '';
   });
@@ -51,10 +42,12 @@ function generatePDF() {
     } else {
       obj.open = false;
     }
-
+    obj = obj.innerHTML
+  });
+  Array.from(summaries).forEach(function(obj, idx) {
+    obj = obj.innerHTML
   });
   const element = document.getElementById(htmlToPrint).innerHTML;
-  //element.style.border = "1px solid black";
   html2pdf().from(element).save(downloadedFilename);
   
 }
