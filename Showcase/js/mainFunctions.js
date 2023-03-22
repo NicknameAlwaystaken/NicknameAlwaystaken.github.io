@@ -2,10 +2,19 @@ var counter;
 var htmlToPrint = "showcasesnippet"
 
 function generatePDF() {
+  const details = document.querySelectorAll('details')
+  Array.from(details).forEach(function(obj, idx) {
+    if (!obj.open) {
+      obj.open = true;
+    } else {
+      obj.open = false;
+    }
 
+  });
   const element = document.getElementById(htmlToPrint);
   document.getElementById(htmlToPrint).style.border = "1px solid black";
   html2pdf().from(element).save('download.pdf');
+  
 }
 
 function downloadCode() {
