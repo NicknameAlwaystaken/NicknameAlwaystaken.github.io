@@ -4,6 +4,11 @@ var htmlToPrint = "showcasesnippet"
 function generatePDF() {
   const details = document.querySelectorAll('details')
   const hr = document.querySelectorAll('hr')
+  const anchor = document.querySelectorAll('a')
+  Array.from(anchor).forEach(function(obj, idx) { 
+      obj.innerHTML = obj.innerHTML.replace("(link)", "");
+      obj.removeAttribute("href");
+  });
   Array.from(hr).forEach(function(obj, idx) {
       obj.style.display = "none";
   });
