@@ -5,8 +5,8 @@ function generatePDF() {
   const details = document.querySelectorAll('details')
   const hr = document.querySelectorAll('hr')
   Array.from(hr).forEach(function(obj, idx) {
-    if (obj.classList.contains(dashed)) {
-      obj.classList.remove(dashed);
+    if (obj.classList.contains("dashed")) {
+      obj.classList.remove("dashed");
     }
 
   });
